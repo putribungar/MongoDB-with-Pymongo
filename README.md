@@ -13,7 +13,9 @@ Berikut adalah beberapa langkah yang dapat dilakukan untuk melakukan practice ca
 1. Connect cluster pymongo pada link berikut (pilih salah satu yang bisa) : <br>
 • mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true&w=majority  <br>
 • mongodb+srv://mongodb-intro:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true&w=majority <br>
+• mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority <br><br>
 
+Saya connect pada cluster pymongo mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority <br><br>
 2. Mengeksplorasi movies_initial *collection* dan movies *collection* <br>
 
 3. Menyamakan (Matching) dokumen yang ada pada movies_initial *collection* dan movies *collection* untuk melihat perbedaan dari kedua *collection*<br>
